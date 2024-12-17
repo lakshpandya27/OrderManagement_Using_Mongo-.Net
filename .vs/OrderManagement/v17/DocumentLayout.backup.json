@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\handlers\\eventhandlers\\orderupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:handlers\\eventhandlers\\orderupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\handlers\\eventhandlers\\orderdeletedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:handlers\\eventhandlers\\orderdeletedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\handlers\\eventhandlers\\ordercreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:handlers\\eventhandlers\\ordercreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\controllers\\ordercommandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:controllers\\ordercommandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\events\\orderdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:events\\orderdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\events\\orderupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:events\\orderupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\handlers\\commandhandlers\\ordercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:handlers\\commandhandlers\\ordercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\controllers\\orderquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:controllers\\orderquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\handlers\\queryhandlers\\orderqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:handlers\\queryhandlers\\orderqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|c:\\users\\lakshmanapandianpala\\desktop\\ordermanagement\\services\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30266BB1-AF59-4D54-8F1C-039B7E989274}|OrderManagement.csproj|solutionrelative:services\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDeletedEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Handlers\\EventHandlers\\OrderDeletedEventHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\EventHandlers\\OrderDeletedEventHandler.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Handlers\\EventHandlers\\OrderDeletedEventHandler.cs",
+              "RelativeToolTip": "Handlers\\EventHandlers\\OrderDeletedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:51:53.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderUpdatedEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Handlers\\EventHandlers\\OrderUpdatedEventHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\EventHandlers\\OrderUpdatedEventHandler.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Handlers\\EventHandlers\\OrderUpdatedEventHandler.cs",
+              "RelativeToolTip": "Handlers\\EventHandlers\\OrderUpdatedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:52:13.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderCreatedEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Handlers\\EventHandlers\\OrderCreatedEventHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\EventHandlers\\OrderCreatedEventHandler.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Handlers\\EventHandlers\\OrderCreatedEventHandler.cs",
+              "RelativeToolTip": "Handlers\\EventHandlers\\OrderCreatedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:25:26.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderCommandController.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Controllers\\OrderCommandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderCommandController.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Controllers\\OrderCommandController.cs",
+              "RelativeToolTip": "Controllers\\OrderCommandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:02:13.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:01:59.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Events\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Events\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Events\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "Events\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:24:29.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDeletedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Events\\OrderDeletedEvent.cs",
+              "RelativeDocumentMoniker": "Events\\OrderDeletedEvent.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Events\\OrderDeletedEvent.cs",
+              "RelativeToolTip": "Events\\OrderDeletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:24:49.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Events\\OrderUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "Events\\OrderUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Events\\OrderUpdatedEvent.cs",
+              "RelativeToolTip": "Events\\OrderUpdatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:24:41.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Handlers\\CommandHandlers\\OrderCommandService.cs",
+              "RelativeDocumentMoniker": "Handlers\\CommandHandlers\\OrderCommandService.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Handlers\\CommandHandlers\\OrderCommandService.cs",
+              "RelativeToolTip": "Handlers\\CommandHandlers\\OrderCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:02:55.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T06:03:00.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderQueryController.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Controllers\\OrderQueryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderQueryController.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Controllers\\OrderQueryController.cs",
+              "RelativeToolTip": "Controllers\\OrderQueryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:10:49.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Handlers\\QueryHandlers\\OrderQueryService.cs",
+              "RelativeDocumentMoniker": "Handlers\\QueryHandlers\\OrderQueryService.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Handlers\\QueryHandlers\\OrderQueryService.cs",
+              "RelativeToolTip": "Handlers\\QueryHandlers\\OrderQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:11:32.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MongoSettings.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Services\\MongoSettings.cs",
+              "RelativeDocumentMoniker": "Services\\MongoSettings.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Services\\MongoSettings.cs",
+              "RelativeToolTip": "Services\\MongoSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:03:37.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\LakshmanaPandianPala\\Desktop\\OrderManagement\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:02:29.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
